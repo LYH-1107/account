@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
     <title>🐰 乐乐的智能记账本 💖</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1"></script>
     <style>
