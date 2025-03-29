@@ -1,5 +1,3 @@
-乐乐的智能记账本
-是永制作的
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
