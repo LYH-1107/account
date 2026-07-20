@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>🐰 乐乐的智能记账本 💖</title>
+    <title>🐰 阿伦的智能记账本 💖</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1"></script>
     <style>
         :root {
@@ -230,7 +230,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🐰 乐乐的智能记账本 💖</h1>
+        <h1>🐰 阿伦的智能记账本 💖</h1>
         
         <!-- 预算管理系统 -->
         <div class="stat-item" style="grid-column: 1 / -1;">
